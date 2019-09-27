@@ -1,0 +1,24 @@
+#header {
+  background: #062639;
+  height: 10%;
+  font: 25px Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#sidebar {
+  background: #353e4a;
+  float: left;
+  height: 350px;
+  width: 30%;
+  padding-top: 20px;
+}
+#content {
+  background: #fbf8ef;
+  float: right;
+  width: 70%;
+  height: 350px;
+  font: normal 20px/30px Arial, Helvetica, sans-serif;
+  padding-top: 20px;
+}
